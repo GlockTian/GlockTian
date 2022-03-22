@@ -1,7 +1,8 @@
 ### Hi there 👋 This is GlockTian
 
+- 🛠️ C#/Java/Python/Dart/JavaScript
 - 🌱 I’m currently learning Mern Stack
-- 👯 I’m looking to collaborate on Cross platform application
+- 👯 I’m looking to collaborate on Cross-platform application
 - ⚡ Fun fact: "Glock" is a German word for Bell. "Tian" is a Chinese word for More.
 
 
